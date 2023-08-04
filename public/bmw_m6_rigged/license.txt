@@ -1,0 +1,11 @@
+Model Information:
+* title:	BMW M6 rigged
+* source:	https://sketchfab.com/3d-models/bmw-m6-rigged-7be5ef095a4644bebe000a6052bc2ba0
+* author:	vr_creators (https://sketchfab.com/vr_creator07)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BMW M6 rigged" (https://sketchfab.com/3d-models/bmw-m6-rigged-7be5ef095a4644bebe000a6052bc2ba0) by vr_creators (https://sketchfab.com/vr_creator07) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

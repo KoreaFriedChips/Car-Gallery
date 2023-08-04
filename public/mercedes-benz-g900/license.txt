@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mercedes-Benz BRABUS G900
+* source:	https://sketchfab.com/3d-models/mercedes-benz-brabus-g900-aad90805a0a84381bbee50f569e45d50
+* author:	DAS AUTO (https://sketchfab.com/das_auto)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mercedes-Benz BRABUS G900" (https://sketchfab.com/3d-models/mercedes-benz-brabus-g900-aad90805a0a84381bbee50f569e45d50) by DAS AUTO (https://sketchfab.com/das_auto) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
