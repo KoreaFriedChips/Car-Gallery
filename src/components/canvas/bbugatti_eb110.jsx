@@ -58,6 +58,7 @@ const BugattiEB110Canvas = () => {
       <ambientLight color="#ffffff" intensity={0.1} />
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls
+          autoRotate={true}
           enableZoom={true}
           maxPolarAngle={Math.PI / 2}
           minPolarAngle={Math.PI / 3}

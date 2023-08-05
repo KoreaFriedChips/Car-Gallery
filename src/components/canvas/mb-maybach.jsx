@@ -58,6 +58,7 @@ const MBMaybachCanvas = () => {
       <ambientLight color="#ffffff" intensity={0.1} />
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls
+          autoRotate={true}
           enableZoom={true}
           maxPolarAngle={Math.PI / 1.1 }
           minPolarAngle={Math.PI / 3}

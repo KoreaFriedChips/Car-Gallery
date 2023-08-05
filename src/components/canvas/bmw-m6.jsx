@@ -57,6 +57,7 @@ const Bmwm6Canvas = () => {
       <ambientLight color="#ffffff" intensity={0.1} />
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls
+          autoRotate={true}
           enableZoom={false}
           maxPolarAngle={Math.PI / 2}
           minPolarAngle={Math.PI / 3}
